@@ -1,0 +1,17 @@
+body{
+background-color: greenyellow;
+}
+#Score{
+font-size: 27px;
+margin: left;
+}
+#Timer{
+float:right;
+font-size: 27px;
+margin-right: 70px;
+margin-bottom: 30px;
+}
+#Draw{
+font-size:30px;
+color:red;
+}
